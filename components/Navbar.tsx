@@ -394,36 +394,33 @@ export function Navbar() {
             "
           >
             <a
-              href="/resume.pdf"
-              download
+              href="/Gaurav_Tripathiii.pdf"
+              download="Gaurav_Tripathiii.pdf"
               className="
-                group
-                flex
-                items-center
-                gap-2
-                rounded-full
-                border
-                border-white/[0.08]
-                bg-white/[0.025]
-                px-4
-                py-2.5
-                text-[11px]
-                font-medium
-                text-white/60
-                transition-all
-                duration-300
-                hover:border-white/15
-                hover:bg-white/[0.06]
-                hover:text-white
-              "
+    group
+    flex
+    items-center
+    gap-2
+    rounded-full
+    border
+    border-white/[0.08]
+    bg-white/[0.025]
+    px-4
+    py-2.5
+    text-[11px]
+    font-medium
+    text-white/60
+    transition-all
+    duration-300
+    hover:border-white/15
+    hover:bg-white/[0.06]
+    hover:text-white
+  "
             >
               CV
               <Download
                 size={13}
-                className="
-                  transition-transform
-                  group-hover:translate-y-0.5
-                "
+                className="transition-transform group-hover:translate-y-0.5"
               />
             </a>
 
@@ -563,7 +560,7 @@ export function Navbar() {
             "
           >
             <a
-              href="/resume.pdf"
+              href="./Gaurav_Tripathiii.pdf"
               download
               className="
                 flex

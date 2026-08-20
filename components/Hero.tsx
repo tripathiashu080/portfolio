@@ -502,18 +502,32 @@ export function Hero() {
                 />
               </Button>
 
-              <Button
-                className="
-                  border
-                  border-white/15
-                  bg-white/[.03]
-                  text-white
-                  hover:bg-white/[.07]
-                "
-              >
-                Download CV
-                <Download className="ml-2" size={17} />
-              </Button>
+              <a
+  href="/Gaurav_Tripathiii.pdf"
+  download="Gaurav_Tripathiii.pdf"
+  className="
+    inline-flex
+    h-10
+    items-center
+    justify-center
+    rounded-md
+    border
+    border-white/15
+    bg-white/[.03]
+    px-4
+    text-sm
+    font-medium
+    text-white
+    transition-all
+    duration-300
+    hover:bg-white/[.07]
+    hover:border-purple-400/30
+    hover:-translate-y-0.5
+  "
+>
+  Download CV
+  <Download className="ml-2" size={17} />
+</a>
             </div>
 
             <div
