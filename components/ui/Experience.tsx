@@ -18,7 +18,7 @@ const experiences = [
   {
     year: "2025 — PRESENT",
     company: "Droom Technology PVT LTD",
-    role: "Senior Frontend Developer",
+    role: "Senior Software Developer",
     location: "Gurugram, India",
     description:
       "Working on scalable frontend experiences across multiple Droom products, building reusable React and Next.js components, integrating REST APIs and improving performance, SEO and responsive UI.",
@@ -37,7 +37,7 @@ const experiences = [
   {
     year: "2024 — 2025",
     company: "Droom Technology PVT LTD",
-    role: "Frontend Developer",
+    role: "Software Developer",
     location: "Gurugram, India",
     description:
       "Developed reusable frontend components for product experiences, implemented REST API integrations, optimized Next.js applications and created responsive interfaces across multiple domains.",
@@ -55,7 +55,7 @@ const experiences = [
   {
     year: "2023 — 2024",
     company: "SES IT Global Solutions",
-    role: "Frontend Developer",
+    role: "Software Developer",
     location: "India",
     description:
       "Designed and developed responsive websites for different business domains with a strong focus on UI quality, cross-browser compatibility, responsive layouts and frontend performance.",

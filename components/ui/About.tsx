@@ -279,7 +279,7 @@ export function About() {
 
         <div className="mt-8 max-w-3xl">
           <p className="about-copy text-base leading-8 text-white/55 md:text-lg">
-            I&apos;m a frontend developer with 3+ years of experience building
+            I&apos;m a Software developer with 3+ years of experience building
             responsive, high-performance web applications using React.js,
             Next.js and modern frontend technologies.
           </p>

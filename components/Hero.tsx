@@ -451,7 +451,7 @@ export function Hero() {
                 md:text-base
               "
             >
-              FRONTEND DEVELOPER
+              SOFTWARE DEVELOPER
             </p>
 
             <p
@@ -503,8 +503,8 @@ export function Hero() {
               </Button>
 
               <a
-  href="/Gaurav_Tripathiii.pdf"
-  download="Gaurav_Tripathiii.pdf"
+  href="/gaurav-resume.pdf"
+  download="gaurav-resume.pdf"
   className="
     inline-flex
     h-10

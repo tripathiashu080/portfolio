@@ -394,8 +394,8 @@ export function Navbar() {
             "
           >
             <a
-              href="/Gaurav_Tripathiii.pdf"
-              download="Gaurav_Tripathiii.pdf"
+              href="/gaurav-resume.pdf"
+              download="gaurav-resume.pdf"
               className="
     group
     flex
